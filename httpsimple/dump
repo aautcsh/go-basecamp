@@ -1,0 +1,27 @@
+<table cellspacing=10>
+<tr><td><span style="font-weight: bold; font-size: 12pt;">URL No Longer Exists</span></td></tr>
+<tr><td>You have attempted to reach a URL that no longer exists on salesforce.com. <br/><br/>
+
+You may have reached this page after clicking on a direct link into the application. This direct link might be: <br/>
+&#8226; A bookmark to a particular page, such as a report or view <br/>
+&#8226; A link to a particular page in the Custom Links section of your Home Tab, or a Custom Link <br/>
+&#8226; A link to a particular page in your email templates <br/><br/>
+If you reached this page through a bookmark, you are probably trying to access something that has moved. Please update your bookmark. <br/>
+<br/>If you reached this page through any of the other direct links listed above, please notify your administrator to update the link. <br/><br/>If you reached this page through a link on our site, please <a href="/cases/logabug.jsp">report the broken link directly to our Support Team</a> and we will fix it promptly. Please indicate the page you were on when you clicked the link as well as any other related information. We apologize for the inconvenience. <br/><br/>Thank you again for your patience and assistance. And thanks for using salesforce.com!</td></tr>
+</table>
+
+
+
+<!-- Body events -->
+<script type="text/javascript">function bodyOnLoad(){if(window.PreferenceBits){window.PreferenceBits.prototype.csrfToken="null";};}function bodyOnBeforeUnload(){}function bodyOnFocus(){}function bodyOnUnload(){}</script>
+			
+</body>
+</html>
+
+
+<!--
+...................................................................................................
+...................................................................................................
+...................................................................................................
+...................................................................................................
+-->
